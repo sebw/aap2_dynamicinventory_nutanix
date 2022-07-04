@@ -1,6 +1,6 @@
 plugin: nutanix.ncp.ntnx_prism_vm_inventory
-nutanix_hostname: "10.55.22.39"
+nutanix_hostname: "10.42.62.39"
 nutanix_port: "9440"
 nutanix_username: "admin"
-nutanix_password: 'blah'
+nutanix_password: 'reDh@t123!'
 validate_certs: False
